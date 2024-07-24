@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -128,3 +129,6 @@ You need to set up an `.env` file at the root of the project to store environmen
 1. Copy the `.env.development` file to a new file named `.env`.
 2. Replace the asterisks and fill in the database connection details and any other environment-specific variables as documented in the `.env.development` file.
 
+=======
+# ecommerce-nest
+>>>>>>> 4fcb28841fded9f229ac81246117c00f2ba29c77
